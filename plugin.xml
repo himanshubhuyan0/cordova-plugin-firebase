@@ -3,7 +3,8 @@
 xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>Google Firebase Plugin</name>
-
+    <string name="google_app_id">sywom-pushnotification</string>
+	<string name="google_api_key">AIzaSyAU1qOKi5JEYEkRhm_HavWAIm75JcMSsig</string>
 	<license>MIT</license>
 
 	<engines>
