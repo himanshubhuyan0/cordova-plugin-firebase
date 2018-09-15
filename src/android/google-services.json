@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "677114325867",
-    "firebase_url": "https://sywom-81bf1.firebaseio.com",
-    "project_id": "sywom-81bf1",
-    "storage_bucket": "sywom-81bf1.appspot.com"
+    "project_number": "720635594803",
+    "firebase_url": "https://sywom-pushnotification.firebaseio.com",
+    "project_id": "sywom-pushnotification",
+    "storage_bucket": "sywom-pushnotification.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:677114325867:android:fec808ccb731b6ca",
+        "mobilesdk_app_id": "1:720635594803:android:895ab65aef0fc8f0",
         "android_client_info": {
-          "package_name": "io.sywom.app"
+          "package_name": "an.sywom.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "677114325867-o3js1u11aniqm47bdotjuvomg72ild37.apps.googleusercontent.com",
+          "client_id": "720635594803-sfs7p3u113hipje7shvgvsrsji7oqo5l.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCh9jpXSasq19l4TpjMJCtWnXGyg21J1GU"
+          "current_key": "AIzaSyDHOr-hv8cKizTAd_BtyudWLb8ilnmt6cU"
         }
       ],
       "services": {
